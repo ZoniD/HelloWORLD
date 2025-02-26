@@ -5,7 +5,7 @@ public class StringThings {
         exercise1(); //Olga
         exercise2();
         exercise3();
-        exercise4("Deniz");
+        exercise4("Deniz"); //Silke
         exercise5();
         exercise6();
         exercise7("Deniz", "Deniz");
