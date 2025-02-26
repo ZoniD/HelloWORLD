@@ -2,7 +2,7 @@ package Exercises;
 
 public class StringThings {
     public static void main(String[] args) {
-        exercise1(); //Olga
+        exercise1();
         exercise2();
         exercise3();
         exercise4("Deniz");
