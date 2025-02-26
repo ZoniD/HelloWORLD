@@ -6,7 +6,7 @@ public class StringThings {
         exercise2();
         exercise3();
         exercise4("Deniz");  //Comment commit push test
-        exercise5();
+        exercise5();                //Silkes kommentar
         exercise6();
         exercise7("Deniz", "Deniz");
         exercise8(3, 3);
